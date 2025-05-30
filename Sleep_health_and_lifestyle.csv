@@ -1,0 +1,375 @@
+Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,BMI Category,Blood Pressure,Heart Rate,Daily Steps,Sleep Disorder,Average Salary
+1,Male,27,Software Engineer,6.1,6,42,6,Overweight,126/83,77,4200,,Rp10.000.000 – Rp18.000.000
+2,Male,28,Doctor,6.2,6,60,8,Normal,125/80,75,10000,,Rp12.000.000 – Rp25.000.000
+3,Male,28,Doctor,6.2,6,60,8,Normal,125/80,75,10000,,Rp12.000.000 – Rp25.000.000
+4,Male,28,Sales Representative,5.9,4,30,8,Obese,140/90,85,3000,Sleep Apnea,Rp5.000.000 – Rp9.000.000
+5,Male,28,Sales Representative,5.9,4,30,8,Obese,140/90,85,3000,Sleep Apnea,Rp5.000.000 – Rp9.000.000
+6,Male,28,Software Engineer,5.9,4,30,8,Obese,140/90,85,3000,Insomnia,Rp10.000.000 – Rp18.000.000
+7,Male,29,Teacher,6.3,6,40,7,Obese,140/90,82,3500,Insomnia,Rp4.000.000 – Rp7.000.000
+8,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+9,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+10,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+11,Male,29,Doctor,6.1,6,30,8,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+12,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+13,Male,29,Doctor,6.1,6,30,8,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+14,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+15,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+16,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+17,Female,29,Nurse,6.5,5,40,7,Normal Weight,132/87,80,4000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+18,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,Sleep Apnea,Rp12.000.000 – Rp25.000.000
+19,Female,29,Nurse,6.5,5,40,7,Normal Weight,132/87,80,4000,Insomnia,Rp4.500.000 – Rp8.000.000
+20,Male,30,Doctor,7.6,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+21,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+22,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+23,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+24,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+25,Male,30,Doctor,7.8,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+26,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+27,Male,30,Doctor,7.8,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+28,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+29,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+30,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+31,Female,30,Nurse,6.4,5,35,7,Normal Weight,130/86,78,4100,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+32,Female,30,Nurse,6.4,5,35,7,Normal Weight,130/86,78,4100,Insomnia,Rp4.500.000 – Rp8.000.000
+33,Female,31,Nurse,7.9,8,75,4,Normal Weight,117/76,69,6800,,Rp4.500.000 – Rp8.000.000
+34,Male,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+35,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+36,Male,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+37,Male,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+38,Male,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+39,Male,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+40,Male,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+41,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+42,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+43,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+44,Male,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+45,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+46,Male,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+47,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+48,Male,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+49,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+50,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,Sleep Apnea,Rp12.000.000 – Rp25.000.000
+51,Male,32,Engineer,7.5,8,45,3,Normal,120/80,70,8000,,Rp7.000.000 – Rp15.000.000
+52,Male,32,Engineer,7.5,8,45,3,Normal,120/80,70,8000,,Rp7.000.000 – Rp15.000.000
+53,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+54,Male,32,Doctor,7.6,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+55,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+56,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+57,Male,32,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+58,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+59,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+60,Male,32,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,Rp12.000.000 – Rp25.000.000
+61,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+62,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+63,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+64,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+65,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+66,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+67,Male,32,Accountant,7.2,8,50,6,Normal Weight,118/76,68,7000,,Rp6.000.000 – Rp10.000.000
+68,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,Insomnia,Rp12.000.000 – Rp25.000.000
+69,Female,33,Scientist,6.2,6,50,6,Overweight,128/85,76,5500,,Rp7.000.000 – Rp13.000.000
+70,Female,33,Scientist,6.2,6,50,6,Overweight,128/85,76,5500,,Rp7.000.000 – Rp13.000.000
+71,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+72,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+73,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+74,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+75,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+76,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+77,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+78,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+79,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+80,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,Rp12.000.000 – Rp25.000.000
+81,Female,34,Scientist,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea,Rp7.000.000 – Rp13.000.000
+82,Female,34,Scientist,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea,Rp7.000.000 – Rp13.000.000
+83,Male,35,Teacher,6.7,7,40,5,Overweight,128/84,70,5600,,Rp4.000.000 – Rp7.000.000
+84,Male,35,Teacher,6.7,7,40,5,Overweight,128/84,70,5600,,Rp4.000.000 – Rp7.000.000
+85,Male,35,Software Engineer,7.5,8,60,5,Normal Weight,120/80,70,8000,,Rp10.000.000 – Rp18.000.000
+86,Female,35,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+87,Male,35,Engineer,7.2,8,60,4,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+88,Male,35,Engineer,7.2,8,60,4,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+89,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+90,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+91,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+92,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+93,Male,35,Software Engineer,7.5,8,60,5,Normal Weight,120/80,70,8000,,Rp10.000.000 – Rp18.000.000
+94,Male,35,Lawyer,7.4,7,60,5,Obese,135/88,84,3300,Sleep Apnea,Rp10.000.000 – Rp20.000.000
+95,Female,36,Accountant,7.2,8,60,4,Normal,115/75,68,7000,Insomnia,Rp6.000.000 – Rp10.000.000
+96,Female,36,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+97,Female,36,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+98,Female,36,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+99,Female,36,Teacher,7.1,8,60,4,Normal,115/75,68,7000,,Rp4.000.000 – Rp7.000.000
+100,Female,36,Teacher,7.1,8,60,4,Normal,115/75,68,7000,,Rp4.000.000 – Rp7.000.000
+101,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,,Rp4.000.000 – Rp7.000.000
+102,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,,Rp4.000.000 – Rp7.000.000
+103,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,,Rp4.000.000 – Rp7.000.000
+104,Male,36,Teacher,6.6,5,35,7,Overweight,129/84,74,4800,Sleep Apnea,Rp4.000.000 – Rp7.000.000
+105,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,Sleep Apnea,Rp4.000.000 – Rp7.000.000
+106,Male,36,Teacher,6.6,5,35,7,Overweight,129/84,74,4800,Insomnia,Rp4.000.000 – Rp7.000.000
+107,Female,37,Nurse,6.1,6,42,6,Overweight,126/83,77,4200,,Rp4.500.000 – Rp8.000.000
+108,Male,37,Engineer,7.8,8,70,4,Normal Weight,120/80,68,7000,,Rp7.000.000 – Rp15.000.000
+109,Male,37,Engineer,7.8,8,70,4,Normal Weight,120/80,68,7000,,Rp7.000.000 – Rp15.000.000
+110,Male,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+111,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+112,Male,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+113,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+114,Male,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+115,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+116,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+117,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+118,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+119,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+120,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+121,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+122,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+123,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+124,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+125,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+126,Female,37,Nurse,7.5,8,60,4,Normal Weight,120/80,70,8000,,Rp4.500.000 – Rp8.000.000
+127,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+128,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+129,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+130,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+131,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+132,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+133,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+134,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+135,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+136,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+137,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+138,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+139,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+140,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+141,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+142,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+143,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+144,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,Rp6.000.000 – Rp10.000.000
+145,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,Sleep Apnea,Rp10.000.000 – Rp20.000.000
+146,Female,38,Lawyer,7.4,7,60,5,Obese,135/88,84,3300,Sleep Apnea,Rp10.000.000 – Rp20.000.000
+147,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,Insomnia,Rp10.000.000 – Rp20.000.000
+148,Male,39,Engineer,6.5,5,40,7,Overweight,132/87,80,4000,Insomnia,Rp7.000.000 – Rp15.000.000
+149,Female,39,Lawyer,6.9,7,50,6,Normal Weight,128/85,75,5500,,Rp10.000.000 – Rp20.000.000
+150,Female,39,Accountant,8.0,9,80,3,Normal Weight,115/78,67,7500,,Rp6.000.000 – Rp10.000.000
+151,Female,39,Accountant,8.0,9,80,3,Normal Weight,115/78,67,7500,,Rp6.000.000 – Rp10.000.000
+152,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+153,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+154,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+155,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+156,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+157,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+158,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+159,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+160,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+161,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+162,Female,40,Accountant,7.2,8,55,6,Normal Weight,119/77,73,7300,,Rp6.000.000 – Rp10.000.000
+163,Female,40,Accountant,7.2,8,55,6,Normal Weight,119/77,73,7300,,Rp6.000.000 – Rp10.000.000
+164,Male,40,Lawyer,7.9,8,90,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+165,Male,40,Lawyer,7.9,8,90,5,Normal,130/85,68,8000,,Rp10.000.000 – Rp20.000.000
+166,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,Insomnia,Rp10.000.000 – Rp20.000.000
+167,Male,41,Engineer,7.3,8,70,6,Normal Weight,121/79,72,6200,,Rp7.000.000 – Rp15.000.000
+168,Male,41,Lawyer,7.1,7,55,6,Overweight,125/82,72,6000,,Rp10.000.000 – Rp20.000.000
+169,Male,41,Lawyer,7.1,7,55,6,Overweight,125/82,72,6000,,Rp10.000.000 – Rp20.000.000
+170,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,,Rp10.000.000 – Rp20.000.000
+171,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,,Rp10.000.000 – Rp20.000.000
+172,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,,Rp10.000.000 – Rp20.000.000
+173,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,,Rp10.000.000 – Rp20.000.000
+174,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,,Rp10.000.000 – Rp20.000.000
+175,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,,Rp10.000.000 – Rp20.000.000
+176,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,,Rp10.000.000 – Rp20.000.000
+177,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,,Rp10.000.000 – Rp20.000.000
+178,Male,42,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+179,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,,Rp10.000.000 – Rp20.000.000
+180,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,,Rp10.000.000 – Rp20.000.000
+181,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,,Rp10.000.000 – Rp20.000.000
+182,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,,Rp10.000.000 – Rp20.000.000
+183,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,,Rp10.000.000 – Rp20.000.000
+184,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,,Rp10.000.000 – Rp20.000.000
+185,Female,42,Teacher,6.8,6,45,7,Overweight,130/85,78,5000,Sleep Apnea,Rp4.000.000 – Rp7.000.000
+186,Female,42,Teacher,6.8,6,45,7,Overweight,130/85,78,5000,Sleep Apnea,Rp4.000.000 – Rp7.000.000
+187,Female,43,Teacher,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+188,Male,43,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+189,Female,43,Teacher,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+190,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+191,Female,43,Teacher,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+192,Male,43,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+193,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+194,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+195,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+196,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+197,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+198,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+199,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+200,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+201,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+202,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Insomnia,Rp7.000.000 – Rp15.000.000
+203,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Insomnia,Rp7.000.000 – Rp15.000.000
+204,Male,43,Engineer,6.9,6,47,7,Normal Weight,117/76,69,6800,,Rp7.000.000 – Rp15.000.000
+205,Male,43,Engineer,7.6,8,75,4,Overweight,122/80,68,6800,,Rp7.000.000 – Rp15.000.000
+206,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,,Rp7.000.000 – Rp15.000.000
+207,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,,Rp7.000.000 – Rp15.000.000
+208,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,,Rp7.000.000 – Rp15.000.000
+209,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,,Rp7.000.000 – Rp15.000.000
+210,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,,Rp7.000.000 – Rp15.000.000
+211,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,,Rp7.000.000 – Rp15.000.000
+212,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,,Rp7.000.000 – Rp15.000.000
+213,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,,Rp7.000.000 – Rp15.000.000
+214,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,,Rp7.000.000 – Rp15.000.000
+215,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,,Rp7.000.000 – Rp15.000.000
+216,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,,Rp7.000.000 – Rp15.000.000
+217,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,,Rp7.000.000 – Rp15.000.000
+218,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,,Rp7.000.000 – Rp15.000.000
+219,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Sleep Apnea,Rp7.000.000 – Rp15.000.000
+220,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Sleep Apnea,Rp4.000.000 – Rp7.000.000
+221,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+222,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+223,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+224,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+225,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+226,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+227,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+228,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+229,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+230,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+231,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+232,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+233,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+234,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+235,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+236,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+237,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+238,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+239,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+240,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+241,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+242,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+243,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+244,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+245,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+246,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+247,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+248,Male,44,Engineer,6.8,7,45,7,Overweight,130/85,78,5000,Insomnia,Rp7.000.000 – Rp15.000.000
+249,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,,Rp4.000.000 – Rp7.000.000
+250,Male,44,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,,Rp4.000.000 – Rp7.000.000
+251,Female,45,Teacher,6.8,7,30,6,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+252,Female,45,Teacher,6.8,7,30,6,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+253,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+254,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+255,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+256,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+257,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+258,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+259,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+260,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+261,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,Rp4.000.000 – Rp7.000.000
+262,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,,Rp4.000.000 – Rp7.000.000
+263,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,,Rp4.000.000 – Rp7.000.000
+264,Female,45,Manager,6.9,7,55,5,Overweight,125/82,75,5500,,Rp12.000.000 – Rp25.000.000
+265,Male,48,Doctor,7.3,7,65,5,Obese,142/92,83,3500,Insomnia,Rp12.000.000 – Rp25.000.000
+266,Female,48,Nurse,5.9,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+267,Male,48,Doctor,7.3,7,65,5,Obese,142/92,83,3500,Insomnia,Rp12.000.000 – Rp25.000.000
+268,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,,Rp4.500.000 – Rp8.000.000
+269,Female,49,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+270,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+271,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+272,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+273,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+274,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+275,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+276,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+277,Male,49,Doctor,8.1,9,85,3,Obese,139/91,86,3700,Sleep Apnea,Rp12.000.000 – Rp25.000.000
+278,Male,49,Doctor,8.1,9,85,3,Obese,139/91,86,3700,Sleep Apnea,Rp12.000.000 – Rp25.000.000
+279,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Insomnia,Rp4.500.000 – Rp8.000.000
+280,Female,50,Engineer,8.3,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+281,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,,Rp4.500.000 – Rp8.000.000
+282,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+283,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+284,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+285,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+286,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+287,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+288,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+289,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+290,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+291,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+292,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+293,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+294,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+295,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+296,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+297,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+298,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+299,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+300,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+301,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+302,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+303,Female,51,Nurse,7.1,7,55,6,Normal Weight,125/82,72,6000,,Rp4.500.000 – Rp8.000.000
+304,Female,51,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+305,Female,51,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+306,Female,51,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+307,Female,52,Accountant,6.5,7,45,7,Overweight,130/85,72,6000,Insomnia,Rp6.000.000 – Rp10.000.000
+308,Female,52,Accountant,6.5,7,45,7,Overweight,130/85,72,6000,Insomnia,Rp6.000.000 – Rp10.000.000
+309,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,Rp6.000.000 – Rp10.000.000
+310,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,Rp6.000.000 – Rp10.000.000
+311,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,Rp6.000.000 – Rp10.000.000
+312,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,Rp6.000.000 – Rp10.000.000
+313,Female,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+314,Female,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+315,Female,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+316,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,Insomnia,Rp7.000.000 – Rp15.000.000
+317,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+318,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+319,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+320,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+321,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+322,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+323,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+324,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+325,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+326,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+327,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+328,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+329,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+330,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+331,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+332,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+333,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+334,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+335,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+336,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+337,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+338,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+339,Female,54,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,Rp7.000.000 – Rp15.000.000
+340,Female,55,Nurse,8.1,9,75,4,Overweight,140/95,72,5000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+341,Female,55,Nurse,8.1,9,75,4,Overweight,140/95,72,5000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+342,Female,56,Doctor,8.2,9,90,3,Normal Weight,118/75,65,10000,,Rp12.000.000 – Rp25.000.000
+343,Female,56,Doctor,8.2,9,90,3,Normal Weight,118/75,65,10000,,Rp12.000.000 – Rp25.000.000
+344,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,,Rp4.500.000 – Rp8.000.000
+345,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+346,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+347,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+348,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+349,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+350,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+351,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+352,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+353,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+354,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+355,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+356,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+357,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+358,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+359,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,,Rp4.500.000 – Rp8.000.000
+360,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,,Rp4.500.000 – Rp8.000.000
+361,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+362,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+363,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+364,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+365,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+366,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+367,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+368,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+369,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+370,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+371,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+372,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+373,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
+374,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,Rp4.500.000 – Rp8.000.000
